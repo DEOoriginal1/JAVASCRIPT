@@ -1,5 +1,4 @@
 for(let index = 1; index <= 5; index++){	
-		process.stdout.write("*");
 	for(let count = 1; count <= index; count++){
 			process.stdout.write("*");						
 	}
